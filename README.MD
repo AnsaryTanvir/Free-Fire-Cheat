@@ -40,4 +40,5 @@ Inject    Framework   : SsageParuders         : https://github.com/SsageParuders
 Hooking   Framework   : Jay Freeman (saurik)  : https://github.com/saurik<br>
 String    Obfuscator  : Adam Yaxley           : https://github.com/adamyaxley/Obfuscate<br>
 Xposed    Framwork    : rovo89                : https://github.com/rovo89/Xposed<br>
+KittyMemory           : MJx0                  : https://github.com/MJx0/KittyMemory<br>
 
